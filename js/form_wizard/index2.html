@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+  	<title>JQuery Form Wizard</title>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" ></meta>
+ 		<link rel="stylesheet" type="text/css" href="bootstrap.min.css" />  
+   
+	</head>
+  <body>
+
+
+			<form class="form-horizontal bbq" id="supplier_frm">                     
+               <div id="fieldWrapper">     
+                    <span class="step" id="first">
+                    <span class="font_normal_07em_black">Step 1 - Basic information</span><br />
+                     <div class="form-group">
+                        <label class="control-label col-lg-3">Code*</label>
+                        <div class="col-lg-7">
+                          <input type="text"  value="" class="validate[required] form-control" id="code" name="code" style="text-transform:uppercase">
+                        </div>
+                      </div><!-- /.form-group -->
+
+                      <div class="form-group">
+                        <label for="text1" class="control-label col-lg-3">Name of Organisation*</label>
+                        <div class="col-lg-7">
+                          <input type="text" value="" id="name" placeholder="Name" class="validate[required,custom[onlyLetterSp]] form-control " name="name">
+                        </div>
+                      </div><!-- /.form-group -->  
+
+                      <div class="form-group">
+                        <label for="text1" class="control-label col-lg-3">Business Address*</label>
+                        <div class="col-lg-7">
+                          <input type="text" value="" id="address" placeholder="Address" class="form-control" name="address">
+                        </div>
+                      </div><!-- /.form-group -->
+
+                       <div class="form-group">
+                        <label for="text1" class="control-label col-lg-3">City*</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="contactPerson" placeholder="City" class="validate[custom[onlyLetterSp]] form-control " name="city">
+                        </div>
+                         <label for="text1" class="control-label col-lg-3">Province/State*</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="mobile" placeholder="Province/State" class="form-control tel" name="province">
+                        </div>
+                      </div><!-- /.form-group -->
+
+                      <div class="form-group">
+                        <label for="text1" class="control-label col-lg-3">Telephone 1*</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="telephone" placeholder="Telephone 1" class="form-control tel" name="telephone">
+                        </div>
+                         <label for="text1" class="control-label col-lg-3">Fax</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="fax" placeholder="Fax" class="form-control tel" name="fax">
+                        </div>
+                      </div><!-- /.form-group -->
+
+                       <div class="form-group">
+                        <label for="text1" class="control-label col-lg-3">Telephone 2</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="telephone" placeholder="Telephone 2" class="form-control tel" name="telephone">
+                        </div>
+                         <label for="text1" class="control-label col-lg-3">Email</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="fax" placeholder="Email" class="form-control tel" name="fax">
+                        </div>
+                      </div><!-- /.form-group -->
+
+                     
+                      <div class="form-group">
+                        <label for="text1" class="control-label col-lg-3">Country*</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="telephone" placeholder="Country" class="form-control tel" name="country">
+                        </div>
+                         <label for="text1" class="control-label col-lg-3">Post Code/Zip</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="fax" placeholder="Post Code/Zip" class="form-control tel" name="postCode">
+                        </div>
+                      </div><!-- /.form-group -->
+
+                      <div class="form-group">
+                        <label for="text1" class="control-label col-lg-3">Contact Person</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="contactPerson" placeholder="Contact Person" class="validate[custom[onlyLetterSp]] form-control " name="contactPerson">
+                        </div>
+                         <label for="text1" class="control-label col-lg-3">Moblie</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="mobile" placeholder="Mobile" class="form-control tel" name="mobile">
+                        </div>
+                      </div><!-- /.form-group -->
+
+                      <div class="form-group">
+                        <label for="text1" class="control-label col-lg-3">Currency*</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="contactPerson" placeholder="Currency" class="validate[custom[onlyLetterSp]] form-control " name="currency">
+                        </div>
+                         <label for="text1" class="control-label col-lg-3">Website</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="mobile" placeholder="Website" class="form-control tel" name="website">
+                        </div>
+                      </div><!-- /.form-group -->
+
+                      <div class="form-group">
+                        <label class="control-label col-lg-3">Type of Goods/Service*</label>
+                        <div class="col-lg-7  select-box">
+                          <select id="itemSupplier" class="form-control" name="tgs">
+                            
+                        
+                          </select>
+                        </div>
+                      </div><!-- /.form-group --> 
+
+                      <div class="form-group">
+                        <label class="control-label col-lg-3">Agent Ships*</label>
+                        <div class="col-lg-7  select-box">
+                          <select id="itemSupplier" class="form-control" name="as">
+                            
+                        
+                          </select>
+                        </div>
+                      </div><!-- /.form-group -->
+
+                    </span>
+
+                     <span class="step" id="second">
+                      <span class="font_normal_07em_black">Step 2 - Bussinus information</span><br />
+
+                      <div class="form-group">
+                        <label for="text1" class="control-label col-lg-3">Company Reg No</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="companyRegNo" placeholder="Company Reg No" class="form-control " name="companyRegNo">
+                        </div>
+                         <label for="text1" class="control-label col-lg-3">Reg Date</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="regDate" placeholder="Reg Date" class="form-control tel" name="companyRegDate">
+                        </div>
+                      </div><!-- /.form-group -->
+
+                      <div class="form-group">
+                        <label for="text1" class="control-label col-lg-3">BOI Reg No</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="boiRegNo" placeholder="BOI Reg No" class="form-control " name="contactPerson">
+                        </div>
+                         <label for="text1" class="control-label col-lg-3">Reg Date</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="boiRegDate" placeholder="Reg Date" class="form-control tel" name="boiRegDate">
+                        </div>
+                      </div><!-- /.form-group -->
+
+                       <div class="form-group">
+                        <label for="text1" class="control-label col-lg-3">VAT Reg No</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="vatRegNo" placeholder="VAT Reg No" class="form-control " name="vatRegNo">
+                        </div>
+                         <label for="text1" class="control-label col-lg-3">TQB No</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="tqbNo" placeholder="TQB No" class="form-control tel" name="tqbNo">
+                        </div>
+                      </div><!-- /.form-group -->
+
+                       <div class="form-group">
+                        <label for="text1" class="control-label col-lg-3">Payment Terms</label>
+                        <div class="col-lg-2">
+                          <select id="paymentl" class="form-control" name="paymentTerms">
+                            
+                        
+                          </select>
+                        </div>
+                         <label for="text1" class="control-label col-lg-3">Payment Mode</label>
+                        <div class="col-lg-2">
+                           <select id="paymentMode" class="form-control" name="paymentMode">
+                            
+                        
+                          </select>
+                        </div>
+                      </div><!-- /.form-group -->
+
+                      <div class="form-group">
+                        <label for="text1" class="control-label col-lg-3">Mode of Collecting Payment</label>
+                        <div class="col-lg-7">
+                          <select id="mcp" class="form-control" name="mcp">
+                            
+                        
+                          </select>
+                        </div>
+                      </div><!-- /.form-group --> 
+
+
+                     <div class="form-group">
+                        <label for="text1" class="control-label col-lg-3">Delivery Terms </label>
+                        <div class="col-lg-7">
+                          <select id="deliveryTerms" class="form-control" name="deliveryTerms">
+                            
+                        
+                          </select>
+                        </div>
+                      </div><!-- /.form-group --> 
+
+
+                      <div class="form-group">
+                        <label for="text1" class="control-label col-lg-3">INCO Terms</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="incoTerms" placeholder="INCO Terms" class="form-control " name="incoTerms">
+                        </div>
+                         <label for="text1" class="control-label col-lg-3">Ship Mode</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="shipMode" placeholder="Ship Mode" class="form-control tel" name="shipMode">
+                        </div>
+                      </div><!-- /.form-group -->
+                      </span>
+
+                      <span class="step" id="third">
+                      <span class="font_normal_07em_black">Step 3 - Bank information</span><br />
+
+                      <div class="form-group">
+                        <label for="text1" class="control-label col-lg-3">Managing Director</label>
+                        <div class="col-lg-7">
+                          <input type="text" value="" id="managingDirector" placeholder="Managing Director" class="form-control " name="managingDirector">
+                        </div>
+                       
+                      </div><!-- /.form-group -->
+
+                      <div class="form-group">
+                         <label for="text1" class="control-label col-lg-3">Head of Finance</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="headOfFinance" placeholder="Head of Finance" class="form-control " name="headOfFinance">
+                        </div>
+
+                        <label for="text1" class="control-label col-lg-3">Designation</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="hfDesignation" placeholder="Designation" class="form-control " name="hfDesignation">
+                        </div>
+                      </div><!-- /.form-group -->
+
+                       <div class="form-group">
+                        <label for="text1" class="control-label col-lg-3">Telephone </label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="hfTelephone" placeholder="Telephone" class="form-control " name="hfTelephone">
+                        </div>
+                         <label for="text1" class="control-label col-lg-3">Email</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="hfEmail" placeholder="Email" class="form-control tel" name="hfEmail">
+                        </div>
+                      </div><!-- /.form-group -->
+
+                       <div class="form-group">
+                        <label for="text1" class="control-label col-lg-3">Name of Bank</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="nameOfBank" placeholder="Name of Bank" class="form-control " name="nameOfBank">
+                        </div>
+                         <label for="text1" class="control-label col-lg-3">Bank Code</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="bankCode" placeholder="Telephone" class="form-control " name="bankCode">
+                        </div>
+                      </div><!-- /.form-group -->
+
+                      <div class="form-group">
+                        <label for="text1" class="control-label col-lg-3">Branch Name</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="bankBranch" placeholder="Branch Name" class="form-control " name="bankBranch">
+                        </div>
+                         <label for="text1" class="control-label col-lg-3">Branch Code</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="branchCode" placeholder="Branch Code" class="form-control " name="branchCode">
+                        </div>
+                      </div><!-- /.form-group -->
+
+                      <div class="form-group">
+                        <label for="text1" class="control-label col-lg-3">Bank Address*</label>
+                        <div class="col-lg-7">
+                          <input type="text" value="" id="address" placeholder="Address" class="form-control" name="address">
+                        </div>
+                      </div><!-- /.form-group -->
+
+                      <div class="form-group">
+                        <label for="text1" class="control-label col-lg-3">Bank Telephone</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="bankTelephone" placeholder="Bank Telephone" class="form-control " name="bankTelephone">
+                        </div>
+                         <label for="text1" class="control-label col-lg-3">Bank Fax</label>
+                        <div class="col-lg-2">
+                          <input type="text" value="" id="bankFax" placeholder="Bank Fax" class="form-control " name="bankFax">
+                        </div>
+                      </div><!-- /.form-group -->
+
+                      <div class="form-group">                      
+                        <label for="text1" class="control-label col-lg-1">Bank Account No</label>
+                        <div class="col-lg-1">
+                          <input type="text" value="" id="bankAccountNo" placeholder="Bank Account No" class="form-control " name="bankAccountNo">
+                        </div>
+                         <label for="text1" class="control-label col-lg-1">Swift Code</label>
+                        <div class="col-lg-1">
+                          <input type="text" value="" id="swiftCode" placeholder="Swift Code" class="form-control " name="swiftCode">
+                        </div>
+                         <label for="text1" class="control-label col-lg-1">Sort Code</label>
+                        <div class="col-lg-1">
+                          <input type="text" value="" id="sortCode" placeholder="Sort Code" class="form-control " name="sortCode">
+                        </div>
+                      </div><!-- /.form-group -->
+
+                                       
+                     </span>
+                     </div>
+
+                     <div>              
+                      <input class="btn" id="back" value="Back" type="reset" />
+                      <input class="btn btn-primary" id="next" value="Next" type="submit" />
+                    </div>
+
+                    </form>
+		
+
+    <script type="text/javascript" src="jquery-1.4.2.min.js"></script>		
+    <script type="text/javascript" src="jquery-ui-1.8.5.custom.min.js"></script>
+    <script type="text/javascript" src="jquery.form.wizard.js"></script>
+    
+    <script type="text/javascript">
+			$(function(){
+				$("#supplier_frm").formwizard({ 
+				 	  focusFirstInput : true
+    			 }
+				);
+	  		});
+    </script>
+	</body>
+</html>
