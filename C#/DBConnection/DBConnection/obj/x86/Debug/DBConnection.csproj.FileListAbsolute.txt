@@ -1,0 +1,8 @@
+D:\dotNet\DBConnection\DBConnection\obj\x86\Debug\DBConnection.Form1.resources
+D:\dotNet\DBConnection\DBConnection\obj\x86\Debug\DBConnection.Form2.resources
+D:\dotNet\DBConnection\DBConnection\obj\x86\Debug\DBConnection.Properties.Resources.resources
+D:\dotNet\DBConnection\DBConnection\obj\x86\Debug\DBConnection.csproj.GenerateResource.Cache
+D:\dotNet\DBConnection\DBConnection\bin\Debug\DBConnection.exe
+D:\dotNet\DBConnection\DBConnection\bin\Debug\DBConnection.pdb
+D:\dotNet\DBConnection\DBConnection\obj\x86\Debug\DBConnection.exe
+D:\dotNet\DBConnection\DBConnection\obj\x86\Debug\DBConnection.pdb

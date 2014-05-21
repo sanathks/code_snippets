@@ -1,0 +1,7 @@
+D:\dotNet\Testing\Testing\bin\Debug\Testing.exe
+D:\dotNet\Testing\Testing\bin\Debug\Testing.pdb
+D:\dotNet\Testing\Testing\obj\x86\Debug\Testing.Form1.resources
+D:\dotNet\Testing\Testing\obj\x86\Debug\Testing.Properties.Resources.resources
+D:\dotNet\Testing\Testing\obj\x86\Debug\Testing.csproj.GenerateResource.Cache
+D:\dotNet\Testing\Testing\obj\x86\Debug\Testing.exe
+D:\dotNet\Testing\Testing\obj\x86\Debug\Testing.pdb

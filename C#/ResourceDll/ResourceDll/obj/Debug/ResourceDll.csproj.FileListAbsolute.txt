@@ -1,0 +1,4 @@
+D:\dotNet\ResourceDll\ResourceDll\bin\Debug\ResourceDll.dll
+D:\dotNet\ResourceDll\ResourceDll\bin\Debug\ResourceDll.pdb
+D:\dotNet\ResourceDll\ResourceDll\obj\Debug\ResourceDll.dll
+D:\dotNet\ResourceDll\ResourceDll\obj\Debug\ResourceDll.pdb

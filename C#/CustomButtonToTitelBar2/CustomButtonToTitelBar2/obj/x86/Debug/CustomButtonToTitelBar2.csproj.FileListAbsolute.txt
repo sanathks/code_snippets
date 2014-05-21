@@ -1,0 +1,7 @@
+D:\dotNet\CustomButtonToTitelBar2\CustomButtonToTitelBar2\bin\Debug\CustomButtonToTitelBar2.exe
+D:\dotNet\CustomButtonToTitelBar2\CustomButtonToTitelBar2\bin\Debug\CustomButtonToTitelBar2.pdb
+D:\dotNet\CustomButtonToTitelBar2\CustomButtonToTitelBar2\obj\x86\Debug\CustomButtonToTitelBar2.Form1.resources
+D:\dotNet\CustomButtonToTitelBar2\CustomButtonToTitelBar2\obj\x86\Debug\CustomButtonToTitelBar2.Properties.Resources.resources
+D:\dotNet\CustomButtonToTitelBar2\CustomButtonToTitelBar2\obj\x86\Debug\CustomButtonToTitelBar2.csproj.GenerateResource.Cache
+D:\dotNet\CustomButtonToTitelBar2\CustomButtonToTitelBar2\obj\x86\Debug\CustomButtonToTitelBar2.exe
+D:\dotNet\CustomButtonToTitelBar2\CustomButtonToTitelBar2\obj\x86\Debug\CustomButtonToTitelBar2.pdb

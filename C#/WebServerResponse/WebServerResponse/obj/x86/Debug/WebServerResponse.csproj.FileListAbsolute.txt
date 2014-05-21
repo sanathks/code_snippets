@@ -1,0 +1,4 @@
+D:\dotNet\WebServerResponse\WebServerResponse\bin\Debug\WebServerResponse.exe
+D:\dotNet\WebServerResponse\WebServerResponse\bin\Debug\WebServerResponse.pdb
+D:\dotNet\WebServerResponse\WebServerResponse\obj\x86\Debug\WebServerResponse.exe
+D:\dotNet\WebServerResponse\WebServerResponse\obj\x86\Debug\WebServerResponse.pdb

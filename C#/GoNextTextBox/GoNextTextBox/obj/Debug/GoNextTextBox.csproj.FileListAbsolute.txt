@@ -1,0 +1,7 @@
+D:\dotNet\GoNextTextBox\GoNextTextBox\bin\Debug\GoNextTextBox.dll
+D:\dotNet\GoNextTextBox\GoNextTextBox\bin\Debug\GoNextTextBox.pdb
+D:\dotNet\GoNextTextBox\GoNextTextBox\obj\Debug\GoNextTextBox.GotoNextTextBox.resources
+D:\dotNet\GoNextTextBox\GoNextTextBox\obj\Debug\GoNextTextBox.csproj.GenerateResource.Cache
+D:\dotNet\GoNextTextBox\GoNextTextBox\obj\Debug\GoNextTextBox.dll
+D:\dotNet\GoNextTextBox\GoNextTextBox\obj\Debug\GoNextTextBox.pdb
+D:\dotNet\GoNextTextBox\GoNextTextBox\obj\Debug\GoNextTextBox.csprojResolveAssemblyReference.cache

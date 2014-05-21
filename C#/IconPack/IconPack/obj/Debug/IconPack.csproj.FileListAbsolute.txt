@@ -1,0 +1,4 @@
+D:\dotNet\IconPack\IconPack\bin\Debug\IconPack.dll
+D:\dotNet\IconPack\IconPack\bin\Debug\IconPack.pdb
+D:\dotNet\IconPack\IconPack\obj\Debug\IconPack.dll
+D:\dotNet\IconPack\IconPack\obj\Debug\IconPack.pdb

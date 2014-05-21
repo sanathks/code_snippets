@@ -1,0 +1,7 @@
+D:\dotNet\AeroNonClientButtons\AeroNonClientButtons\AeroOrbTest\bin\Debug\AeroOrbTest.exe
+D:\dotNet\AeroNonClientButtons\AeroNonClientButtons\AeroOrbTest\bin\Debug\AeroOrbTest.pdb
+D:\dotNet\AeroNonClientButtons\AeroNonClientButtons\AeroOrbTest\obj\Debug\AeroNonClientButtons.MainForm.resources
+D:\dotNet\AeroNonClientButtons\AeroNonClientButtons\AeroOrbTest\obj\Debug\AeroOrbTest.Properties.Resources.resources
+D:\dotNet\AeroNonClientButtons\AeroNonClientButtons\AeroOrbTest\obj\Debug\AeroNonClientButtons.csproj.GenerateResource.Cache
+D:\dotNet\AeroNonClientButtons\AeroNonClientButtons\AeroOrbTest\obj\Debug\AeroOrbTest.exe
+D:\dotNet\AeroNonClientButtons\AeroNonClientButtons\AeroOrbTest\obj\Debug\AeroOrbTest.pdb

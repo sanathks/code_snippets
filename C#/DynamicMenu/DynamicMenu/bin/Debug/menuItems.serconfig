@@ -1,0 +1,20 @@
+﻿<menuItems>
+  
+  <mmenu name="tpMaster" text="Master" method="" >
+    <smenu name="tpItems" text="Items" method="this.items" icon=""></smenu>
+    <smenu name="tpItemsCat" text="Items Cat:" method="this.itemsCat" icon=""></smenu>
+  </mmenu>
+
+  <mmenu name="tpTranse" text="Transe" method="">
+    <smenu name="tpGRN" text="Goods Receive Note" method="this.items" icon=""></smenu>
+    <smenu name="tpGIN" text="GIN" method="this.itemsCat" icon=""></smenu>
+  </mmenu>
+
+  <mmenu name="tpTranse" text="Report" method="">
+    <smenu name="tpGRN" text="Goods Receive Note" method="this.items" icon=""></smenu>
+    <smenu name="tpGIN" text="GIN" method="this.itemsCat" icon=""></smenu>
+  </mmenu>
+
+  <mmenu name="tpHelp" text="Help" method=""></mmenu>
+  
+</menuItems>

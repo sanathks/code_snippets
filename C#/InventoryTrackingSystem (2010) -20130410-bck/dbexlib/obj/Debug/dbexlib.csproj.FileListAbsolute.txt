@@ -1,0 +1,4 @@
+D:\dotNet\InventoryTrackingSystem (2010)\dbexlib\bin\Debug\dbexlib.dll
+D:\dotNet\InventoryTrackingSystem (2010)\dbexlib\bin\Debug\dbexlib.pdb
+D:\dotNet\InventoryTrackingSystem (2010)\dbexlib\obj\Debug\dbexlib.dll
+D:\dotNet\InventoryTrackingSystem (2010)\dbexlib\obj\Debug\dbexlib.pdb

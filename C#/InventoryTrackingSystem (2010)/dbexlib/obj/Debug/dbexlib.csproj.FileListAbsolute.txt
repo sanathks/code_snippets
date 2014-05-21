@@ -1,0 +1,11 @@
+D:\dotNet\InventoryTrackingSystem (2010)\dbexlib\bin\Debug\dbexlib.dll
+D:\dotNet\InventoryTrackingSystem (2010)\dbexlib\bin\Debug\dbexlib.pdb
+D:\dotNet\InventoryTrackingSystem (2010)\dbexlib\obj\Debug\dbexlib.dll
+D:\dotNet\InventoryTrackingSystem (2010)\dbexlib\obj\Debug\dbexlib.pdb
+D:\dotNet\InventoryTrackingSystem (2010)\dbexlib\obj\Debug\dbexlib.csprojResolveAssemblyReference.cache
+E:\Projects\C#\dotNet\InventoryTrackingSystem (2010)\dbexlib\bin\Debug\dbexlib.dll
+E:\Projects\C#\dotNet\InventoryTrackingSystem (2010)\dbexlib\bin\Debug\dbexlib.pdb
+E:\Projects\C#\dotNet\InventoryTrackingSystem (2010)\dbexlib\bin\Debug\MySql.Data.dll
+E:\Projects\C#\dotNet\InventoryTrackingSystem (2010)\dbexlib\obj\Debug\dbexlib.csprojResolveAssemblyReference.cache
+E:\Projects\C#\dotNet\InventoryTrackingSystem (2010)\dbexlib\obj\Debug\dbexlib.dll
+E:\Projects\C#\dotNet\InventoryTrackingSystem (2010)\dbexlib\obj\Debug\dbexlib.pdb

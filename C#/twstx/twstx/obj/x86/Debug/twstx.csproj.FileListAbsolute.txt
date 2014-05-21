@@ -1,0 +1,7 @@
+D:\dotNet\twstx\twstx\obj\x86\Debug\twstx.csprojResolveAssemblyReference.cache
+D:\dotNet\twstx\twstx\bin\Debug\twstx.exe.config
+D:\dotNet\twstx\twstx\bin\Debug\twstx.exe
+D:\dotNet\twstx\twstx\bin\Debug\twstx.pdb
+D:\dotNet\twstx\twstx\bin\Debug\Newtonsoft.Json.dll
+D:\dotNet\twstx\twstx\obj\x86\Debug\twstx.exe
+D:\dotNet\twstx\twstx\obj\x86\Debug\twstx.pdb

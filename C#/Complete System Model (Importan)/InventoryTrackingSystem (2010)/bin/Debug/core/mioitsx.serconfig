@@ -1,0 +1,22 @@
+﻿<menuItems>
+  
+  <menu name="tsrpMaster" text="Master" click="" >
+    <submenu name="tsrpCompany" text="Company" click="mtrCompany" icon="true" iconName="comp"></submenu>
+    <submenu name="tsrpLocation" text="Location" click="mtrLocation" icon="true" iconName="department" separator="true"></submenu>
+    <submenu name="tsrpEmployee" text="Employee" click="masterEmployeet" icon="true" iconName="emp"></submenu>
+    <submenu name="tsrpItemCategory" text="Item Category" click="masterItemCategory" icon="false" iconName=""></submenu>
+  </menu>
+
+  <menu name="tpTransaction" text="Transaction" click="">
+    <submenu name="tpGRN" text="Item Transaction" click="this.items" icon="">
+      <submenu name="tpGRN" text="General Items" click="this.items" icon=""></submenu>
+      <submenu name="tpGRN" text="Fixed Assets" click="this.items" icon="true" iconName="fixea"></submenu>
+      <submenu name="tpGRN" text="Elec/Communication Divice" click="this.items" icon="true" iconName="phone"></submenu>
+    </submenu>
+    <submenu name="tpGIN" text="Goods Transfer" click="this.itemsCat" icon="" frm="frmItem"></submenu>
+    <submenu name="tpGIN" text="Goods Disposal" click="this.itemsCat" icon="" frm="frmItem"></submenu>
+ </menu>
+
+  <menu name="tpHelp" text="Help" click="hide"></menu>
+  
+</menuItems>

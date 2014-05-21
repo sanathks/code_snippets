@@ -1,0 +1,10 @@
+D:\dotNet\Database Lib\Database Lib\bin\Debug\Database Lib.exe
+D:\dotNet\Database Lib\Database Lib\bin\Debug\Database Lib.pdb
+D:\dotNet\Database Lib\Database Lib\obj\Debug\Database Lib.csprojResolveAssemblyReference.cache
+D:\dotNet\Database Lib\Database Lib\obj\Debug\Database_Lib.Properties.Resources.resources
+D:\dotNet\Database Lib\Database Lib\obj\Debug\Database Lib.csproj.GenerateResource.Cache
+D:\dotNet\Database Lib\Database Lib\obj\Debug\Database Lib.exe
+D:\dotNet\Database Lib\Database Lib\obj\Debug\Database Lib.pdb
+D:\dotNet\Database Lib\Database Lib\bin\Debug\mysqldbridge.dll
+D:\dotNet\Database Lib\Database Lib\bin\Debug\mysqldbridge.pdb
+D:\dotNet\Database Lib\Database Lib\obj\Debug\Database_Lib.Demo.resources

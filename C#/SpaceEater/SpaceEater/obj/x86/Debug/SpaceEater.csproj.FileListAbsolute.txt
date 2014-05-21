@@ -1,0 +1,7 @@
+D:\dotNet\SpaceEater\SpaceEater\bin\Debug\SpaceEater.exe
+D:\dotNet\SpaceEater\SpaceEater\bin\Debug\SpaceEater.pdb
+D:\dotNet\SpaceEater\SpaceEater\obj\x86\Debug\SpaceEater.Form1.resources
+D:\dotNet\SpaceEater\SpaceEater\obj\x86\Debug\SpaceEater.Properties.Resources.resources
+D:\dotNet\SpaceEater\SpaceEater\obj\x86\Debug\SpaceEater.csproj.GenerateResource.Cache
+D:\dotNet\SpaceEater\SpaceEater\obj\x86\Debug\SpaceEater.exe
+D:\dotNet\SpaceEater\SpaceEater\obj\x86\Debug\SpaceEater.pdb

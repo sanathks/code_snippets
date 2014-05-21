@@ -1,0 +1,8 @@
+E:\Projects\C#\RestoreDB\RestoreDB\obj\x86\Release\RestoreDB.Form1.resources
+E:\Projects\C#\RestoreDB\RestoreDB\obj\x86\Release\RestoreDB.Properties.Resources.resources
+E:\Projects\C#\RestoreDB\RestoreDB\obj\x86\Release\RestoreDB.csproj.GenerateResource.Cache
+E:\Projects\C#\RestoreDB\RestoreDB\bin\Release\RestoreDB.exe
+E:\Projects\C#\RestoreDB\RestoreDB\bin\Release\RestoreDB.pdb
+E:\Projects\C#\RestoreDB\RestoreDB\obj\x86\Release\RestoreDB.exe
+E:\Projects\C#\RestoreDB\RestoreDB\obj\x86\Release\RestoreDB.pdb
+E:\Projects\C#\RestoreDB\RestoreDB\obj\x86\Release\RestoreDB.csprojResolveAssemblyReference.cache

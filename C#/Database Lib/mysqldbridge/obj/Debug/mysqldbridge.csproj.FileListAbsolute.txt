@@ -1,0 +1,5 @@
+D:\dotNet\Database Lib\mysqldbridge\bin\Debug\mysqldbridge.dll
+D:\dotNet\Database Lib\mysqldbridge\bin\Debug\mysqldbridge.pdb
+D:\dotNet\Database Lib\mysqldbridge\obj\Debug\mysqldbridge.csprojResolveAssemblyReference.cache
+D:\dotNet\Database Lib\mysqldbridge\obj\Debug\mysqldbridge.dll
+D:\dotNet\Database Lib\mysqldbridge\obj\Debug\mysqldbridge.pdb

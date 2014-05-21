@@ -1,0 +1,17 @@
+﻿<menuItems>
+  
+  <menu name="tsrpMaster" text="Master" click="" >
+    <submenu name="tsrpCompany" text="Company" click="items" icon="false" iconName=""></submenu>
+    <submenu name="tsrpDepartment" text="Department" click="masterDepartment" icon="true" iconName="department" separator="true"></submenu>
+    <submenu name="tsrpEmployee" text="Employee" click="masterEmployeet" icon="true" iconName="emp"></submenu>
+    <submenu name="tsrpItemCategory" text="Item Category" click="masterItemCategory" icon="false" iconName=""></submenu>
+  </menu>
+
+  <menu name="tpTransaction" text="Transaction" click="">
+    <submenu name="tpGRN" text="Goods Receive Note (GRN)" click="this.items" icon="" frm="frmItem"></submenu>
+    <submenu name="tpGIN" text="GIN" click="this.itemsCat" icon="" frm="frmItem"></submenu>
+ </menu>
+
+  <menu name="tpHelp" text="Help" click="hide"></menu>
+  
+</menuItems>

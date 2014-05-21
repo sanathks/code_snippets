@@ -1,0 +1,5 @@
+D:\dotNet\InventoryTrackingSystem (2010)\dbexlib\bin\Release\dbexlib.dll
+D:\dotNet\InventoryTrackingSystem (2010)\dbexlib\bin\Release\dbexlib.pdb
+D:\dotNet\InventoryTrackingSystem (2010)\dbexlib\obj\Release\dbexlib.csprojResolveAssemblyReference.cache
+D:\dotNet\InventoryTrackingSystem (2010)\dbexlib\obj\Release\dbexlib.dll
+D:\dotNet\InventoryTrackingSystem (2010)\dbexlib\obj\Release\dbexlib.pdb

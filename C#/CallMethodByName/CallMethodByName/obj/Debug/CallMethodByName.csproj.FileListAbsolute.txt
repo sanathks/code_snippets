@@ -1,0 +1,9 @@
+D:\dotNet\CallMethodByName\CallMethodByName\bin\Debug\CallMethodByName.exe.config
+D:\dotNet\CallMethodByName\CallMethodByName\bin\Debug\CallMethodByName.exe
+D:\dotNet\CallMethodByName\CallMethodByName\bin\Debug\CallMethodByName.pdb
+D:\dotNet\CallMethodByName\CallMethodByName\obj\Debug\CallMethodByName.csprojResolveAssemblyReference.cache
+D:\dotNet\CallMethodByName\CallMethodByName\obj\Debug\CallMethodByName.Form1.resources
+D:\dotNet\CallMethodByName\CallMethodByName\obj\Debug\CallMethodByName.Properties.Resources.resources
+D:\dotNet\CallMethodByName\CallMethodByName\obj\Debug\CallMethodByName.csproj.GenerateResource.Cache
+D:\dotNet\CallMethodByName\CallMethodByName\obj\Debug\CallMethodByName.exe
+D:\dotNet\CallMethodByName\CallMethodByName\obj\Debug\CallMethodByName.pdb

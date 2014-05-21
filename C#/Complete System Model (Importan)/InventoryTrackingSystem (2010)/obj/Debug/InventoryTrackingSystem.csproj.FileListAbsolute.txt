@@ -1,0 +1,67 @@
+D:\Desktop Apps\NET\C#\DynamicMenu\DynamicMenu\obj\Debug\InventoryTrackingSystem.csprojResolveAssemblyReference.cache
+D:\Desktop Apps\NET\C#\DynamicMenu\DynamicMenu\obj\Debug\InventoryTracking.Properties.Resources.resources
+D:\Desktop Apps\NET\C#\DynamicMenu\DynamicMenu\obj\Debug\InventoryTrackingSystem.csproj.GenerateResource.Cache
+D:\Desktop Apps\NET\C#\DynamicMenu\DynamicMenu\obj\Debug\InventoryTrackingSystem.frmMain.resources
+D:\Desktop Apps\NET\C#\DynamicMenu\DynamicMenu\bin\Debug\Inventory Tracking System.exe.config
+D:\Desktop Apps\NET\C#\DynamicMenu\DynamicMenu\bin\Debug\Inventory Tracking System.exe
+D:\Desktop Apps\NET\C#\DynamicMenu\DynamicMenu\bin\Debug\Inventory Tracking System.pdb
+D:\Desktop Apps\NET\C#\DynamicMenu\DynamicMenu\obj\Debug\InventoryTrackingSystem.frmItem.resources
+D:\Desktop Apps\NET\C#\DynamicMenu\DynamicMenu\obj\Debug\Inventory Tracking System.exe
+D:\Desktop Apps\NET\C#\DynamicMenu\DynamicMenu\obj\Debug\Inventory Tracking System.pdb
+D:\Desktop Apps\NET\C#\DynamicMenu\Inventory Tracking System\bin\Debug\Inventory Tracking System.exe.config
+D:\Desktop Apps\NET\C#\DynamicMenu\Inventory Tracking System\obj\Debug\Inventory Tracking System.exe
+D:\Desktop Apps\NET\C#\DynamicMenu\Inventory Tracking System\obj\Debug\Inventory Tracking System.pdb
+D:\Desktop Apps\NET\C#\DynamicMenu\Inventory Tracking System\bin\Debug\Inventory Tracking System.exe
+D:\Desktop Apps\NET\C#\DynamicMenu\Inventory Tracking System\bin\Debug\Inventory Tracking System.pdb
+D:\Desktop Apps\NET\C#\DynamicMenu\Inventory Tracking System\obj\Debug\InventoryTrackingSystem.csprojResolveAssemblyReference.cache
+D:\Desktop Apps\NET\C#\DynamicMenu\Inventory Tracking System\obj\Debug\InventoryTrackingSystem.frmItem.resources
+D:\Desktop Apps\NET\C#\DynamicMenu\Inventory Tracking System\obj\Debug\InventoryTrackingSystem.frmMain.resources
+D:\Desktop Apps\NET\C#\DynamicMenu\Inventory Tracking System\obj\Debug\InventoryTracking.Properties.Resources.resources
+D:\Desktop Apps\NET\C#\DynamicMenu\Inventory Tracking System\obj\Debug\InventoryTrackingSystem.csproj.GenerateResource.Cache
+D:\dotNet\Inventory Tracking System\Inventory Tracking System\bin\Debug\Inventory Tracking System.exe.config
+D:\dotNet\Inventory Tracking System\Inventory Tracking System\obj\Debug\Inventory Tracking System.exe
+D:\dotNet\Inventory Tracking System\Inventory Tracking System\obj\Debug\Inventory Tracking System.pdb
+D:\dotNet\Inventory Tracking System\Inventory Tracking System\bin\Debug\Inventory Tracking System.exe
+D:\dotNet\Inventory Tracking System\Inventory Tracking System\bin\Debug\Inventory Tracking System.pdb
+D:\dotNet\Inventory Tracking System\Inventory Tracking System\obj\Debug\InventoryTrackingSystem.csprojResolveAssemblyReference.cache
+D:\dotNet\Inventory Tracking System\Inventory Tracking System\obj\Debug\InventoryTrackingSystem.frmItem.resources
+D:\dotNet\Inventory Tracking System\Inventory Tracking System\obj\Debug\InventoryTrackingSystem.frmMain.resources
+D:\dotNet\Inventory Tracking System\Inventory Tracking System\obj\Debug\InventoryTracking.Properties.Resources.resources
+D:\dotNet\Inventory Tracking System\Inventory Tracking System\obj\Debug\InventoryTrackingSystem.csproj.GenerateResource.Cache
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\bin\Debug\Inventory Tracking System.exe.config
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Debug\Inventory Tracking System.exe
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Debug\Inventory Tracking System.pdb
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\bin\Debug\Inventory Tracking System.exe
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\bin\Debug\Inventory Tracking System.pdb
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Debug\InventoryTrackingSystem.csprojResolveAssemblyReference.cache
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Debug\InventoryTrackingSystem.frmItem.resources
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Debug\InventoryTrackingSystem.frmMain.resources
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Debug\InventoryTrackingSystem.csproj.GenerateResource.Cache
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Debug\InventoryTrackingSystem.Properties.Resources.resources
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Debug\InventoryTrackingSystem.Splashscreen.resources
+D:\Desktop Apps\NET\C#\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\bin\Debug\Inventory Tracking System.exe.config
+D:\Desktop Apps\NET\C#\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Debug\Inventory Tracking System.exe
+D:\Desktop Apps\NET\C#\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Debug\Inventory Tracking System.pdb
+D:\Desktop Apps\NET\C#\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Debug\InventoryTrackingSystem.csprojResolveAssemblyReference.cache
+D:\Desktop Apps\NET\C#\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Debug\InventoryTrackingSystem.frmItem.resources
+D:\Desktop Apps\NET\C#\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Debug\InventoryTrackingSystem.frmMain.resources
+D:\Desktop Apps\NET\C#\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Debug\InventoryTrackingSystem.Properties.Resources.resources
+D:\Desktop Apps\NET\C#\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Debug\InventoryTrackingSystem.Splashscreen.resources
+D:\Desktop Apps\NET\C#\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Debug\InventoryTrackingSystem.csproj.GenerateResource.Cache
+D:\Desktop Apps\NET\C#\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\bin\Debug\Inventory Tracking System.exe
+D:\Desktop Apps\NET\C#\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\bin\Debug\Inventory Tracking System.pdb
+D:\Desktop Apps\NET\C#\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\bin\Debug\ButtonSet.dll
+D:\Desktop Apps\NET\C#\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\bin\Debug\ButtonSet.pdb
+D:\DesktopApps\NET\C#\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\bin\Debug\Inventory Tracking System.exe.config
+D:\DesktopApps\NET\C#\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Debug\Inventory Tracking System.exe
+D:\DesktopApps\NET\C#\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Debug\Inventory Tracking System.pdb
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\bin\Debug\acclib.dll
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\bin\Debug\acclib.pdb
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\bin\Debug\gnclib.dll
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\bin\Debug\gnclib.pdb
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Debug\InventoryTrackingSystem.DatabaseRegister.resources
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Debug\InventoryTrackingSystem.frmCompanies.resources
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Debug\InventoryTrackingSystem.frmLogin.resources
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\bin\Debug\dbexlib.dll
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\bin\Debug\dbexlib.pdb
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Debug\InventoryTrackingSystem.frmLocations.resources

@@ -1,0 +1,4 @@
+D:\dotNet\CryptoCheck\CryptoCheck\bin\Debug\CryptoCheck.exe
+D:\dotNet\CryptoCheck\CryptoCheck\bin\Debug\CryptoCheck.pdb
+D:\dotNet\CryptoCheck\CryptoCheck\obj\x86\Debug\CryptoCheck.exe
+D:\dotNet\CryptoCheck\CryptoCheck\obj\x86\Debug\CryptoCheck.pdb

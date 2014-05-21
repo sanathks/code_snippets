@@ -1,0 +1,8 @@
+D:\dotNet\ChangeTitelBarColor\ChangeTitelBarColor\bin\Debug\ChangeTitelBarColor.exe
+D:\dotNet\ChangeTitelBarColor\ChangeTitelBarColor\bin\Debug\ChangeTitelBarColor.pdb
+D:\dotNet\ChangeTitelBarColor\ChangeTitelBarColor\obj\x86\Debug\ChangeTitelBarColor.Form1.resources
+D:\dotNet\ChangeTitelBarColor\ChangeTitelBarColor\obj\x86\Debug\ChangeTitelBarColor.Properties.Resources.resources
+D:\dotNet\ChangeTitelBarColor\ChangeTitelBarColor\obj\x86\Debug\ChangeTitelBarColor.csproj.GenerateResource.Cache
+D:\dotNet\ChangeTitelBarColor\ChangeTitelBarColor\obj\x86\Debug\ChangeTitelBarColor.exe
+D:\dotNet\ChangeTitelBarColor\ChangeTitelBarColor\obj\x86\Debug\ChangeTitelBarColor.pdb
+D:\dotNet\ChangeTitelBarColor\ChangeTitelBarColor\obj\x86\Debug\ChangeTitelBarColor.csprojResolveAssemblyReference.cache

@@ -1,0 +1,23 @@
+C:\Users\SanathS\Documents\Visual Studio 2010\Projects\Daily Diary\Daily Diary\bin\Debug\Daily Diary.exe
+C:\Users\SanathS\Documents\Visual Studio 2010\Projects\Daily Diary\Daily Diary\bin\Debug\Daily Diary.pdb
+C:\Users\SanathS\Documents\Visual Studio 2010\Projects\Daily Diary\Daily Diary\obj\x86\Debug\Daily_Diary.Properties.Resources.resources
+C:\Users\SanathS\Documents\Visual Studio 2010\Projects\Daily Diary\Daily Diary\obj\x86\Debug\Daily Diary.csproj.GenerateResource.Cache
+C:\Users\SanathS\Documents\Visual Studio 2010\Projects\Daily Diary\Daily Diary\obj\x86\Debug\Daily Diary.exe
+C:\Users\SanathS\Documents\Visual Studio 2010\Projects\Daily Diary\Daily Diary\obj\x86\Debug\Daily Diary.pdb
+C:\Users\SanathS\Documents\Visual Studio 2010\Projects\Daily Diary\Daily Diary\obj\x86\Debug\Daily Diary.csprojResolveAssemblyReference.cache
+C:\Users\SanathS\Documents\Visual Studio 2010\Projects\Daily Diary\Daily Diary\obj\x86\Debug\Daily_Diary.Main.resources
+C:\Users\SanathS\Documents\Visual Studio 2010\Projects\Daily Diary\Daily Diary\bin\Debug\NitificationBar.dll
+C:\Users\SanathS\Documents\Visual Studio 2010\Projects\Daily Diary\Daily Diary\bin\Debug\NitificationBar.pdb
+D:\dotNet\Daily Diary\Daily Diary\obj\x86\Debug\Daily Diary.exe
+D:\dotNet\Daily Diary\Daily Diary\obj\x86\Debug\Daily Diary.pdb
+D:\dotNet\Daily Diary\Daily Diary\bin\Debug\Daily Diary.exe
+D:\dotNet\Daily Diary\Daily Diary\bin\Debug\Daily Diary.pdb
+D:\dotNet\Daily Diary\Daily Diary\bin\Debug\NitificationBar.dll
+D:\dotNet\Daily Diary\Daily Diary\bin\Debug\NitificationBar.pdb
+D:\dotNet\Daily Diary\Daily Diary\obj\x86\Debug\Daily Diary.csprojResolveAssemblyReference.cache
+D:\dotNet\Daily Diary\Daily Diary\obj\x86\Debug\Daily_Diary.Main.resources
+D:\dotNet\Daily Diary\Daily Diary\obj\x86\Debug\Daily_Diary.Properties.Resources.resources
+D:\dotNet\Daily Diary\Daily Diary\obj\x86\Debug\Daily Diary.csproj.GenerateResource.Cache
+D:\dotNet\Daily Diary\Daily Diary\bin\Debug\Daily Diary.exe.config
+D:\dotNet\Daily Diary\Daily Diary\bin\Debug\acclib.dll
+D:\dotNet\Daily Diary\Daily Diary\bin\Debug\acclib.pdb

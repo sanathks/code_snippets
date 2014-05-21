@@ -1,0 +1,13 @@
+D:\dotNet\InventoryTrackingSystem (2010)\dbbcklib\bin\Debug\dbbcklib.dll
+D:\dotNet\InventoryTrackingSystem (2010)\dbbcklib\bin\Debug\dbbcklib.pdb
+D:\dotNet\InventoryTrackingSystem (2010)\dbbcklib\bin\Debug\Ionic.Zip.dll
+D:\dotNet\InventoryTrackingSystem (2010)\dbbcklib\obj\Debug\dbbcklib.csprojResolveAssemblyReference.cache
+D:\dotNet\InventoryTrackingSystem (2010)\dbbcklib\obj\Debug\dbbcklib.dll
+D:\dotNet\InventoryTrackingSystem (2010)\dbbcklib\obj\Debug\dbbcklib.pdb
+E:\Projects\C#\dotNet\InventoryTrackingSystem (2010)\dbbcklib\bin\Debug\dbbcklib.dll
+E:\Projects\C#\dotNet\InventoryTrackingSystem (2010)\dbbcklib\bin\Debug\dbbcklib.pdb
+E:\Projects\C#\dotNet\InventoryTrackingSystem (2010)\dbbcklib\bin\Debug\Ionic.Zip.dll
+E:\Projects\C#\dotNet\InventoryTrackingSystem (2010)\dbbcklib\bin\Debug\MySql.Data.dll
+E:\Projects\C#\dotNet\InventoryTrackingSystem (2010)\dbbcklib\obj\Debug\dbbcklib.csprojResolveAssemblyReference.cache
+E:\Projects\C#\dotNet\InventoryTrackingSystem (2010)\dbbcklib\obj\Debug\dbbcklib.dll
+E:\Projects\C#\dotNet\InventoryTrackingSystem (2010)\dbbcklib\obj\Debug\dbbcklib.pdb

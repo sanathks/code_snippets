@@ -1,0 +1,4 @@
+D:\dotNet\CallJSPWS\CallJSPWS\bin\CallJSPWS.dll
+D:\dotNet\CallJSPWS\CallJSPWS\bin\CallJSPWS.pdb
+D:\dotNet\CallJSPWS\CallJSPWS\obj\Debug\CallJSPWS.dll
+D:\dotNet\CallJSPWS\CallJSPWS\obj\Debug\CallJSPWS.pdb

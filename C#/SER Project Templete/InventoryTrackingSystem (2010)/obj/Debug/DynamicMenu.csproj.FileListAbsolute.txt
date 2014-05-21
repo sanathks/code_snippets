@@ -1,0 +1,22 @@
+D:\dotNet\DynamicMenu\DynamicMenu\bin\Debug\DynamicMenu.exe.config
+D:\dotNet\DynamicMenu\DynamicMenu\bin\Debug\DynamicMenu.exe
+D:\dotNet\DynamicMenu\DynamicMenu\bin\Debug\DynamicMenu.pdb
+D:\dotNet\DynamicMenu\DynamicMenu\obj\Debug\DynamicMenu.csprojResolveAssemblyReference.cache
+D:\dotNet\DynamicMenu\DynamicMenu\obj\Debug\DynamicMenu.frmMain.resources
+D:\dotNet\DynamicMenu\DynamicMenu\obj\Debug\DynamicMenu.Properties.Resources.resources
+D:\dotNet\DynamicMenu\DynamicMenu\obj\Debug\DynamicMenu.csproj.GenerateResource.Cache
+D:\dotNet\DynamicMenu\DynamicMenu\obj\Debug\DynamicMenu.exe
+D:\dotNet\DynamicMenu\DynamicMenu\obj\Debug\DynamicMenu.pdb
+D:\Desktop Apps\NET\C#\DynamicMenu\DynamicMenu\bin\Debug\DynamicMenu.exe.config
+D:\Desktop Apps\NET\C#\DynamicMenu\DynamicMenu\obj\Debug\DynamicMenu.exe
+D:\Desktop Apps\NET\C#\DynamicMenu\DynamicMenu\obj\Debug\DynamicMenu.pdb
+D:\Desktop Apps\NET\C#\DynamicMenu\DynamicMenu\bin\Debug\DynamicMenu.exe
+D:\Desktop Apps\NET\C#\DynamicMenu\DynamicMenu\bin\Debug\DynamicMenu.pdb
+D:\Desktop Apps\NET\C#\DynamicMenu\DynamicMenu\obj\Debug\DynamicMenu.csprojResolveAssemblyReference.cache
+D:\Desktop Apps\NET\C#\DynamicMenu\DynamicMenu\obj\Debug\DynamicMenu.frmMain.resources
+D:\Desktop Apps\NET\C#\DynamicMenu\DynamicMenu\obj\Debug\DynamicMenu.Properties.Resources.resources
+D:\Desktop Apps\NET\C#\DynamicMenu\DynamicMenu\obj\Debug\DynamicMenu.csproj.GenerateResource.Cache
+D:\Desktop Apps\NET\C#\DynamicMenu\DynamicMenu\obj\Debug\DynamicMenu.frmItem.resources
+D:\Desktop Apps\NET\C#\DynamicMenu\DynamicMenu\bin\Debug\Inventory.exe.config
+D:\Desktop Apps\NET\C#\DynamicMenu\DynamicMenu\bin\Debug\Inventory Racking System.exe.config
+D:\Desktop Apps\NET\C#\DynamicMenu\DynamicMenu\bin\Debug\Inventory Tracking System.exe.config

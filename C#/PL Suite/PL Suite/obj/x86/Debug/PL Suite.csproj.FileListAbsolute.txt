@@ -1,0 +1,7 @@
+D:\dotNet\PL Suite\PL Suite\bin\Debug\PL Suite.exe
+D:\dotNet\PL Suite\PL Suite\bin\Debug\PL Suite.pdb
+D:\dotNet\PL Suite\PL Suite\obj\x86\Debug\PL_Suite.Form1.resources
+D:\dotNet\PL Suite\PL Suite\obj\x86\Debug\PL_Suite.Properties.Resources.resources
+D:\dotNet\PL Suite\PL Suite\obj\x86\Debug\PL Suite.csproj.GenerateResource.Cache
+D:\dotNet\PL Suite\PL Suite\obj\x86\Debug\PL Suite.exe
+D:\dotNet\PL Suite\PL Suite\obj\x86\Debug\PL Suite.pdb

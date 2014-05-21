@@ -1,0 +1,12 @@
+<syscom>
+  <server text="localhost">
+  </server>
+  <username text="root">
+  </username>
+  <password text="i6qKKHcFW6334rpPkhX3tg==">
+  </password>
+  <port text="3306">
+  </port>
+  <database text="hairuec1_projects">
+  </database>
+</syscom>

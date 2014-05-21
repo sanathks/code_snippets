@@ -1,0 +1,15 @@
+﻿<menuItems>
+  
+  <mmenu name="tpMaster" text="Master" click="" >
+    <smenu name="tpItems" text="Items" click="this.items" icon="" frm="frmItem"></smenu>
+    <smenu name="tpItemsCat" text="Items Cat:" click="this.itemsCat" icon="" frm="frmItem"></smenu>
+  </mmenu>
+
+  <mmenu name="tpTranse" text="Transe" click="">
+    <smenu name="tpGRN" text="Goods Receive Note" click="this.items" icon="" frm="frmItem"></smenu>
+    <smenu name="tpGIN" text="GIN" click="this.itemsCat" icon="" frm="frmItem"></smenu>
+  </mmenu>
+
+  <mmenu name="tpHelp" text="Help" click=""></mmenu>
+  
+</menuItems>

@@ -1,0 +1,4 @@
+D:\dotNet\WSTest\WSTest\bin\WSTest.dll
+D:\dotNet\WSTest\WSTest\bin\WSTest.pdb
+D:\dotNet\WSTest\WSTest\obj\Debug\WSTest.dll
+D:\dotNet\WSTest\WSTest\obj\Debug\WSTest.pdb

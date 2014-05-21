@@ -1,0 +1,476 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"hide",
+				"hideAll"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"_item",
+				"_itemTypeModel"
+			],
+			[
+				"js",
+				"jstorage"
+			],
+			[
+				"jqu",
+				"jqueryui"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"_el",
+				"_elDescription"
+			],
+			[
+				"re",
+				"removeAttr"
+			],
+			[
+				"remo",
+				"removeAttr"
+			],
+			[
+				"d",
+				"description"
+			],
+			[
+				"ta",
+				"tags"
+			],
+			[
+				"lo",
+				"locatData"
+			],
+			[
+				"col",
+				"console"
+			],
+			[
+				"e",
+				"error"
+			],
+			[
+				"err",
+				"errShow"
+			],
+			[
+				"data-",
+				"data-err"
+			],
+			[
+				"valida",
+				"validate"
+			],
+			[
+				"_",
+				"_new"
+			],
+			[
+				"ite",
+				"items"
+			],
+			[
+				"f",
+				"fetch"
+			],
+			[
+				"_itemTy",
+				"_itemTypeModel"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"sav",
+				"Saved"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"validate",
+				"validationEngine"
+			],
+			[
+				"q",
+				"qry"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"it",
+				"items"
+			],
+			[
+				"m",
+				"models"
+			],
+			[
+				"_ite",
+				"_itemType"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"It",
+				"ItemList"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"c",
+				"ctrl"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"id",
+				"idno"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"fre",
+				"frame	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/opt/lampp/htdocs/email/testAPI.php",
+		"/home/tempx/Desktop/email-dev/85861.html",
+		"/opt/lampp/htdocs/email/xmlapi.php",
+		"/opt/lampp/htdocs/app/views/inc/tmpl/itemMaster.php",
+		"/opt/lampp/htdocs/assets/js/view.init.js",
+		"/opt/lampp/htdocs/app/views/inc/router.js",
+		"/opt/lampp/htdocs/assets/lib/serrex.fn.js",
+		"/opt/lampp/htdocs/assets/lib/main.js",
+		"/opt/lampp/htdocs/assets/lib/itemMaster.js",
+		"/opt/lampp/htdocs/assets/lib/main-js.js",
+		"/opt/lampp/htdocs/app/views/inc/template.php",
+		"/opt/lampp/htdocs/assets/js/main.js",
+		"/opt/lampp/htdocs/o/snippets/res.js",
+		"/opt/lampp/htdocs/app/models/item_master_data.php",
+		"/opt/lampp/htdocs/app/controllers/api/item_data.php",
+		"/opt/lampp/htdocs/app/views/inc/header.php",
+		"/opt/lampp/htdocs/app/views/inc/footer.php",
+		"/opt/lampp/htdocs/assets/lib/jquery-ui/jqueryui.min.css",
+		"/opt/lampp/htdocs/o/snippets/index.html",
+		"/opt/lampp/htdocs/o/Bootstrap-Admin-Template-master/dist/assets/js/main.js",
+		"/opt/lampp/htdocs/assets/js/main-js.js",
+		"/opt/lampp/htdocs/assets/lib/pagedown/demo/browser/demo.html",
+		"/opt/lampp/htdocs/assets/lib/pagedown/demo/browser/bootstrap/less/hero-unit.less",
+		"/opt/lampp/htdocs/o/inventory/assets/lib/wysihtml5/test/browser_test.js",
+		"/opt/lampp/htdocs/assets/lib/wysihtml5/test/browser_test.js",
+		"/opt/lampp/htdocs/assets/lib/timepicker/css/bootstrap-responsive.css",
+		"/opt/lampp/htdocs/assets/css/main.css",
+		"/opt/lampp/htdocs/metadata/item-master-data-feild.html",
+		"/opt/lampp/htdocs/app/views/inc/componets/menu-top.php",
+		"/opt/lampp/htdocs/o/Bootstrap-Admin-Template-master/dist/val.html",
+		"/opt/lampp/htdocs/o/Bootstrap-Admin-Template-master/dist/form-validation.html",
+		"/opt/lampp/htdocs/assets/lib/validationengine/js/jquery.validationEngine.js",
+		"/opt/lampp/htdocs/app/views/dashboard.php",
+		"/opt/lampp/htdocs/app/views/item.php",
+		"/opt/lampp/htdocs/app/config/autoload.php",
+		"/opt/lampp/htdocs/inventory/app/models/item_master_data.php",
+		"/opt/lampp/htdocs/inventory/app/controllers/api/item_data.php",
+		"/opt/lampp/htdocs/inventory/assets/js/main.js",
+		"/opt/lampp/htdocs/inventory/app/views/inc/template.php",
+		"/opt/lampp/htdocs/inventory/app/views/item.php",
+		"/opt/lampp/htdocs/inventory/app/views/dashboard.php",
+		"/opt/lampp/htdocs/inventory/app/views/inc/header.php",
+		"/opt/lampp/htdocs/inventory/app/views/inc/footer.php",
+		"/opt/lampp/htdocs/Bootstrap-Admin-Template-master/dist/form-general.html",
+		"/opt/lampp/htdocs/inventory/app/models/itemMasterData.php",
+		"/opt/lampp/htdocs/inventory/app/controllers/api/item.php",
+		"/opt/lampp/htdocs/inventory/assets/css/main.css",
+		"/opt/lampp/htdocs/inventory/app/controllers/api/data.php",
+		"/opt/lampp/htdocs/inventory/app/controllers/router.php",
+		"/opt/lampp/htdocs/Bootstrap-Admin-Template-master/dist/assets/js/main.js",
+		"/opt/lampp/htdocs/inventory/app/views/inc/componets/menu-left.php",
+		"/opt/lampp/htdocs/inventory/app/views/inc/componets/menu-top.php",
+		"/opt/lampp/htdocs/sampleData.json",
+		"/opt/lampp/htdocs/inventory/assets/index.html",
+		"/home/tempx/Downloads/flareGet/Compressed/DataTables-1.9.4/examples/basic_init/base.html",
+		"/opt/lampp/htdocs/inventory/app/views/index.html",
+		"/home/tempx/Downloads/flareGet/Compressed/DataTables-1.9.4/examples/index.html",
+		"/opt/lampp/htdocs/Bootstrap-Admin-Template-master/dist/table.html",
+		"/opt/lampp/htdocs/Bootstrap-Admin-Template-master/dist/assets/js/app.js",
+		"/opt/lampp/htdocs/inventory/assets/js/app.js",
+		"/opt/lampp/htdocs/inventory/app/config/autoload.php",
+		"/opt/lampp/htdocs/inventory/app/libraries/comm.php",
+		"/opt/lampp/htdocs/inventory/app/libraries/Format.php",
+		"/opt/lampp/htdocs/inventory/app/libraries/REST_Controller.php",
+		"/opt/lampp/htdocs/inventory/.htaccess",
+		"/opt/lampp/htdocs/inventory/app/views/login.html",
+		"/opt/lampp/htdocs/inventory/app/config/routes.php",
+		"/opt/lampp/htdocs/inventory/app/config/config.php",
+		"/opt/lampp/htdocs/inventory/index.php",
+		"/opt/lampp/htdocs/inventory/app/views/welcome_message.php",
+		"/home/tempx/Desktop/assing/main.css",
+		"/home/tempx/Desktop/assing/main.html",
+		"/home/tempx/Desktop/assing/left.html",
+		"/home/tempx/Desktop/assing/index.html",
+		"/opt/lampp/htdocs/rest_server/index.php",
+		"/opt/lampp/htdocs/rest_server/application/config/database.php",
+		"/opt/lampp/htdocs/rest_server/application/config/config.php",
+		"/opt/lampp/htdocs/rest_server/application/controllers/api/data.php",
+		"/opt/lampp/htdocs/CodeIgniter_2.1.4/application/config/autoload.php",
+		"/var/www/CodeIgniter_2.1.4/application/config/database.php",
+		"/var/www/CodeIgniter_2.1.4/application/controllers/welcome.php",
+		"/var/www/CodeIgniter_2.1.4/application/config/autoload.php",
+		"/var/www/rest_server/application/config/autoload.php",
+		"/etc/php5/cli/php.ini",
+		"/var/www/CodeIgniter_2.1.4/index.php",
+		"/var/www/CodeIgniter_2.1.4/system/libraries/Table.php",
+		"/var/www/CodeIgniter_2.1.4/.htaccess",
+		"/etc/apache2/apache2.conf"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"conrol P",
+			"submit",
+			"\\b[a-z]+@hairuec.com",
+			"[A-Z0-9._%+-]+@hairuec.com",
+			"\\b@hairuec.com",
+			"\\b @hairuec.com",
+			"@hairuec.com",
+			"^[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z]{2,4}$",
+			"\"}]}}",
+			"output",
+			"mdl-item-type",
+			"?>",
+			"\n    <script src=\"<?php echo base_url(); ?>assets",
+			"         \n",
+			"ui-fornt",
+			"inteErr",
+			"$this->input->post",
+			"vali",
+			"DFSDFKJSDFH",
+			"formValidation();",
+			"_temUseage",
+			"();\n",
+			"FunctionName",
+			"FnctionName",
+			"itemType",
+			"ItemData",
+			"ItemMaster",
+			"ItemData",
+			"col-lg-4",
+			"inverse",
+			"<!",
+			"script",
+			"Note",
+			"var",
+			"error"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"$_POST",
+			"ItemSearch",
+			"col-lg-3"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "testAPI.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"browserht",
+				"assets/lib/pagedown/demo/browser/demo.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

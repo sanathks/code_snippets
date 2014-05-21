@@ -1,0 +1,4 @@
+D:\dotNet\WebRequest\WebRequest\bin\Debug\WebRequest.exe
+D:\dotNet\WebRequest\WebRequest\bin\Debug\WebRequest.pdb
+D:\dotNet\WebRequest\WebRequest\obj\x86\Debug\WebRequest.exe
+D:\dotNet\WebRequest\WebRequest\obj\x86\Debug\WebRequest.pdb

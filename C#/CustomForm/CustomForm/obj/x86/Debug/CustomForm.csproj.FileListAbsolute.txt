@@ -1,0 +1,3 @@
+D:\dotNet\CustomForm\CustomForm\obj\x86\Debug\CustomForm.Form1.resources
+D:\dotNet\CustomForm\CustomForm\obj\x86\Debug\CustomForm.Properties.Resources.resources
+D:\dotNet\CustomForm\CustomForm\obj\x86\Debug\CustomForm.csproj.GenerateResource.Cache

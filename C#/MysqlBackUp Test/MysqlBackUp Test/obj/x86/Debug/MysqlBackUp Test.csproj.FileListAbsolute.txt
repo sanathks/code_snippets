@@ -1,0 +1,9 @@
+D:\dotNet\MysqlBackUp Test\MysqlBackUp Test\bin\Debug\MysqlBackUp Test.exe
+D:\dotNet\MysqlBackUp Test\MysqlBackUp Test\bin\Debug\MysqlBackUp Test.pdb
+D:\dotNet\MysqlBackUp Test\MysqlBackUp Test\obj\x86\Debug\MysqlBackUp Test.csprojResolveAssemblyReference.cache
+D:\dotNet\MysqlBackUp Test\MysqlBackUp Test\obj\x86\Debug\MysqlBackUp_Test.Form1.resources
+D:\dotNet\MysqlBackUp Test\MysqlBackUp Test\obj\x86\Debug\MysqlBackUp_Test.Properties.Resources.resources
+D:\dotNet\MysqlBackUp Test\MysqlBackUp Test\obj\x86\Debug\MysqlBackUp Test.csproj.GenerateResource.Cache
+D:\dotNet\MysqlBackUp Test\MysqlBackUp Test\obj\x86\Debug\MysqlBackUp Test.exe
+D:\dotNet\MysqlBackUp Test\MysqlBackUp Test\obj\x86\Debug\MysqlBackUp Test.pdb
+D:\dotNet\MysqlBackUp Test\MysqlBackUp Test\bin\Debug\dbbcklib.dll

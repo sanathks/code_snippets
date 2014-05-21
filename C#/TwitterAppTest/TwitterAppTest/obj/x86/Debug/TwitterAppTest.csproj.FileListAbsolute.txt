@@ -1,0 +1,9 @@
+D:\dotNet\TwitterAppTest\TwitterAppTest\bin\Debug\TwitterAppTest.exe.config
+D:\dotNet\TwitterAppTest\TwitterAppTest\bin\Debug\TwitterAppTest.exe
+D:\dotNet\TwitterAppTest\TwitterAppTest\bin\Debug\TwitterAppTest.pdb
+D:\dotNet\TwitterAppTest\TwitterAppTest\obj\x86\Debug\TwitterAppTest.csprojResolveAssemblyReference.cache
+D:\dotNet\TwitterAppTest\TwitterAppTest\obj\x86\Debug\TwitterAppTest.Form1.resources
+D:\dotNet\TwitterAppTest\TwitterAppTest\obj\x86\Debug\TwitterAppTest.Properties.Resources.resources
+D:\dotNet\TwitterAppTest\TwitterAppTest\obj\x86\Debug\TwitterAppTest.csproj.GenerateResource.Cache
+D:\dotNet\TwitterAppTest\TwitterAppTest\obj\x86\Debug\TwitterAppTest.exe
+D:\dotNet\TwitterAppTest\TwitterAppTest\obj\x86\Debug\TwitterAppTest.pdb

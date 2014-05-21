@@ -1,0 +1,4 @@
+D:\dotNet\ConsoleSpeedTest\ConsoleSpeedTest\bin\Debug\ConsoleSpeedTest.exe
+D:\dotNet\ConsoleSpeedTest\ConsoleSpeedTest\bin\Debug\ConsoleSpeedTest.pdb
+D:\dotNet\ConsoleSpeedTest\ConsoleSpeedTest\obj\x86\Debug\ConsoleSpeedTest.exe
+D:\dotNet\ConsoleSpeedTest\ConsoleSpeedTest\obj\x86\Debug\ConsoleSpeedTest.pdb

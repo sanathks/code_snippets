@@ -1,0 +1,4 @@
+D:\dotNet\DBLibConceptTest\DBLibConceptTest2\bin\Debug\DBLibConceptTest2.exe
+D:\dotNet\DBLibConceptTest\DBLibConceptTest2\bin\Debug\DBLibConceptTest2.pdb
+D:\dotNet\DBLibConceptTest\DBLibConceptTest2\obj\x86\Debug\DBLibConceptTest2.exe
+D:\dotNet\DBLibConceptTest\DBLibConceptTest2\obj\x86\Debug\DBLibConceptTest2.pdb

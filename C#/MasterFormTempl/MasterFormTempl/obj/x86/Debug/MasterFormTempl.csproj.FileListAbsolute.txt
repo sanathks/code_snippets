@@ -1,0 +1,8 @@
+D:\dotNet\MasterFormTempl\MasterFormTempl\bin\Debug\MasterFormTempl.exe
+D:\dotNet\MasterFormTempl\MasterFormTempl\bin\Debug\MasterFormTempl.pdb
+D:\dotNet\MasterFormTempl\MasterFormTempl\obj\x86\Debug\MasterFormTempl.Form1.resources
+D:\dotNet\MasterFormTempl\MasterFormTempl\obj\x86\Debug\MasterFormTempl.Properties.Resources.resources
+D:\dotNet\MasterFormTempl\MasterFormTempl\obj\x86\Debug\MasterFormTempl.csproj.GenerateResource.Cache
+D:\dotNet\MasterFormTempl\MasterFormTempl\obj\x86\Debug\MasterFormTempl.exe
+D:\dotNet\MasterFormTempl\MasterFormTempl\obj\x86\Debug\MasterFormTempl.pdb
+D:\dotNet\MasterFormTempl\MasterFormTempl\obj\x86\Debug\MasterFormTempl.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\dotNet\VPN\VPN\bin\Debug\VPN.exe
+D:\dotNet\VPN\VPN\bin\Debug\VPN.pdb
+D:\dotNet\VPN\VPN\obj\x86\Debug\VPN.Properties.Resources.resources
+D:\dotNet\VPN\VPN\obj\x86\Debug\VPN.Sever.resources
+D:\dotNet\VPN\VPN\obj\x86\Debug\VPN.csproj.GenerateResource.Cache
+D:\dotNet\VPN\VPN\obj\x86\Debug\VPN.exe
+D:\dotNet\VPN\VPN\obj\x86\Debug\VPN.pdb
+D:\dotNet\VPN\VPN\obj\x86\Debug\VPN.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\dotNet\DemoTwitterizerForAPI1.1\DemoTwitterizerForAPI1.1\obj\x86\Debug\DemoTwitterizerForAPI1.1.csprojResolveAssemblyReference.cache
+D:\dotNet\DemoTwitterizerForAPI1.1\DemoTwitterizerForAPI1.1\obj\x86\Debug\DemoTwitterizerForAPI1._1.Form1.resources
+D:\dotNet\DemoTwitterizerForAPI1.1\DemoTwitterizerForAPI1.1\obj\x86\Debug\DemoTwitterizerForAPI1._1.Properties.Resources.resources
+D:\dotNet\DemoTwitterizerForAPI1.1\DemoTwitterizerForAPI1.1\obj\x86\Debug\DemoTwitterizerForAPI1.1.csproj.GenerateResource.Cache

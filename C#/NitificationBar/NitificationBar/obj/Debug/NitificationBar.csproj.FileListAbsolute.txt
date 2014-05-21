@@ -1,0 +1,6 @@
+D:\dotNet\NitificationBar\NitificationBar\bin\Debug\NitificationBar.dll
+D:\dotNet\NitificationBar\NitificationBar\bin\Debug\NitificationBar.pdb
+D:\dotNet\NitificationBar\NitificationBar\obj\Debug\NitificationBar.NitificationBar.resources
+D:\dotNet\NitificationBar\NitificationBar\obj\Debug\NitificationBar.csproj.GenerateResource.Cache
+D:\dotNet\NitificationBar\NitificationBar\obj\Debug\NitificationBar.dll
+D:\dotNet\NitificationBar\NitificationBar\obj\Debug\NitificationBar.pdb

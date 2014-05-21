@@ -1,0 +1,6 @@
+D:\dotNet\GoNextTextBox\GoNextTextBox\obj\Debug\gnclib.csproj.GenerateResource.Cache
+D:\dotNet\GoNextTextBox\GoNextTextBox\obj\Debug\gnclib.GotoNextTextBox.resources
+D:\dotNet\GoNextTextBox\GoNextTextBox\bin\Debug\gnclib.dll
+D:\dotNet\GoNextTextBox\GoNextTextBox\bin\Debug\gnclib.pdb
+D:\dotNet\GoNextTextBox\GoNextTextBox\obj\Debug\gnclib.dll
+D:\dotNet\GoNextTextBox\GoNextTextBox\obj\Debug\gnclib.pdb

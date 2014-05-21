@@ -1,0 +1,51 @@
+﻿<menuItems>
+  
+  <menu name="tsrpMaster" text="Master" click="" >
+    <submenu name="tpCompany" text="Company" click="mtrCompany" icon="true" iconName="comp"></submenu>
+    <submenu name="tpLocation" text="Location" click="mtrLocation" icon="true" iconName="department" separator="true"></submenu>
+    <submenu name="tpEmployee" text="Employee" click="mtrEmployee" icon="true" iconName="emp"></submenu>
+    <submenu name="tpItemCategory" text="Item Categories" click="mtrCategories" icon="true" iconName="itemcat">
+     
+    </submenu>
+  </menu>
+
+  <menu name="tpTransaction" text="Transaction" click="">
+    <submenu name="" text="Goods Receive Note (GRN)" click="" icon="true" iconName="grn">
+      <submenu name="" text="General Items" click="trnGenItem" icon="true" iconName="general"></submenu>
+      <submenu name="" text="Fixed Assets" click="trnFAItem" icon="true" iconName="fixea"></submenu>
+      <submenu name="" text="Elec/Communication Divice" click="trnElecItem" icon="true" iconName="phone"></submenu>
+    </submenu>
+    <submenu name="" text="Goods Transfer Note (GTN)" click="" icon="true" iconName="gtn">
+      <submenu name="" text="General Item" click="trnGTNGen" icon="true" iconName="genGTN"></submenu>
+      <submenu name="" text="FA / EC Item" click="trnGTNFA" icon="true" iconName="allGTN"></submenu>
+    </submenu>
+    <submenu name="tpGIN" text="Goods Disposal Note (GDN)" click="trnGDN" icon="true" iconName="gdn"></submenu>
+ </menu>
+
+  <menu name="tpHelp" text="Tracker" click="hide"></menu>
+ 
+  <menu name="" text="Reports" click="">
+    <submenu name="" text="Tracker" click="show" icon="true" iconName="tracker"></submenu>
+    <submenu name="" text="Shotr Names" click="rptShrtNm" icon="true" iconName="shName"></submenu>
+    <submenu name="" text="Goods Transfer Note (GTN)" click="rptGTN" icon="true" iconName="gtn"></submenu>
+    <submenu name="" text="Goods Disposal Note (GDN)" click="rptGDN" icon="true" iconName="gdn"></submenu>
+  </menu>
+ 
+  <menu name="tpHelp" text="System" click="hide">
+     <submenu name="" text="Server Register" click="sysSerReg" icon="true" iconName="server"></submenu>
+    <submenu name="" text="Backup Manage" click="" icon="true" iconName="backuprestore">
+      <submenu name="" text="Backup" click="sysBackup" icon="true" iconName="backup"></submenu>
+      <submenu name="" text="Restore" click="sysRestore" icon="true" iconName="restore"></submenu>
+    </submenu>
+    <submenu name="" text="User" click="" icon="true" iconName="users">
+      <submenu name="" text="Add User" click="sysAddUser" icon="true" iconName="add_user"></submenu>
+      <submenu name="" text="Edit User" click="sysEditUser" icon="true" iconName="edit-user"></submenu>
+      <submenu name="" text="User Role" click="" icon="true" iconName="use-role"></submenu>
+    </submenu>
+  </menu>
+
+
+  
+
+
+</menuItems>

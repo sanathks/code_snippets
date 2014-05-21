@@ -1,0 +1,11 @@
+D:\dotNet\TT\TT\bin\Debug\TT.exe.config
+D:\dotNet\TT\TT\bin\Debug\TT.exe
+D:\dotNet\TT\TT\bin\Debug\TT.pdb
+D:\dotNet\TT\TT\obj\Debug\TT.csprojResolveAssemblyReference.cache
+D:\dotNet\TT\TT\obj\Debug\TT.Form1.resources
+D:\dotNet\TT\TT\obj\Debug\TT.Properties.Resources.resources
+D:\dotNet\TT\TT\obj\Debug\TT.csproj.GenerateResource.Cache
+D:\dotNet\TT\TT\obj\Debug\TT.exe
+D:\dotNet\TT\TT\obj\Debug\TT.pdb
+D:\dotNet\TT\TT\obj\Debug\RdlCompile.cache
+D:\dotNet\TT\TT\obj\Debug\RdlCompile.compiled

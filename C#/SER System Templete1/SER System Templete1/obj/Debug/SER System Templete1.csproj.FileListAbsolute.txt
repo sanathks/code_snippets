@@ -1,0 +1,16 @@
+D:\dotNet\SER System Templete1\SER System Templete1\bin\Debug\Inventory Tracking System.exe.config
+D:\dotNet\SER System Templete1\SER System Templete1\bin\Debug\Inventory Tracking System.exe
+D:\dotNet\SER System Templete1\SER System Templete1\bin\Debug\Inventory Tracking System.pdb
+D:\dotNet\SER System Templete1\SER System Templete1\bin\Debug\acclib.dll
+D:\dotNet\SER System Templete1\SER System Templete1\bin\Debug\gnclib.dll
+D:\dotNet\SER System Templete1\SER System Templete1\bin\Debug\acclib.pdb
+D:\dotNet\SER System Templete1\SER System Templete1\bin\Debug\gnclib.pdb
+D:\dotNet\SER System Templete1\SER System Templete1\obj\Debug\SER System Templete1.csprojResolveAssemblyReference.cache
+D:\dotNet\SER System Templete1\SER System Templete1\obj\Debug\SER_System_Templete1.DatabaseRegister.resources
+D:\dotNet\SER System Templete1\SER System Templete1\obj\Debug\SER_System_Templete1.frmItem.resources
+D:\dotNet\SER System Templete1\SER System Templete1\obj\Debug\SER_System_Templete1.frmMain.resources
+D:\dotNet\SER System Templete1\SER System Templete1\obj\Debug\SER_System_Templete1.Properties.Resources.resources
+D:\dotNet\SER System Templete1\SER System Templete1\obj\Debug\SER_System_Templete1.Splashscreen.resources
+D:\dotNet\SER System Templete1\SER System Templete1\obj\Debug\SER System Templete1.csproj.GenerateResource.Cache
+D:\dotNet\SER System Templete1\SER System Templete1\obj\Debug\Inventory Tracking System.exe
+D:\dotNet\SER System Templete1\SER System Templete1\obj\Debug\Inventory Tracking System.pdb

@@ -1,0 +1,5 @@
+D:\dotNet\MakeDirToDate\MakeDirToDate\bin\Debug\Make Folder ToDate.exe.config
+D:\dotNet\MakeDirToDate\MakeDirToDate\bin\Debug\Make Folder ToDate.exe
+D:\dotNet\MakeDirToDate\MakeDirToDate\bin\Debug\Make Folder ToDate.pdb
+D:\dotNet\MakeDirToDate\MakeDirToDate\obj\x86\Debug\Make Folder ToDate.exe
+D:\dotNet\MakeDirToDate\MakeDirToDate\obj\x86\Debug\Make Folder ToDate.pdb

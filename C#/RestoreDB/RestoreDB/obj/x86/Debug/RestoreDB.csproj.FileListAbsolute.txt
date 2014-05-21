@@ -1,0 +1,7 @@
+E:\Projects\C#\RestoreDB\RestoreDB\bin\Debug\RestoreDB.exe
+E:\Projects\C#\RestoreDB\RestoreDB\bin\Debug\RestoreDB.pdb
+E:\Projects\C#\RestoreDB\RestoreDB\obj\x86\Debug\RestoreDB.Form1.resources
+E:\Projects\C#\RestoreDB\RestoreDB\obj\x86\Debug\RestoreDB.Properties.Resources.resources
+E:\Projects\C#\RestoreDB\RestoreDB\obj\x86\Debug\RestoreDB.csproj.GenerateResource.Cache
+E:\Projects\C#\RestoreDB\RestoreDB\obj\x86\Debug\RestoreDB.exe
+E:\Projects\C#\RestoreDB\RestoreDB\obj\x86\Debug\RestoreDB.pdb

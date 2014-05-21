@@ -1,0 +1,25 @@
+<syscom>
+  <com name="mioitsx.serconfig" path="core/mioitsx.serconfig" />
+  <com name="department" path="res/department" />
+  <com name="edit" path="res/edit" />
+  <com name="emp" path="res/emp" />
+  <com name="settings" path="res/settings" />
+  <com name="users" path="res/users" />
+  <com name="add_user" path="res/add_user" />
+  <com name="allGTN" path="res/allGTN" />
+  <com name="backup" path="res/backup" />
+  <com name="backuprestore" path="res/backuprestore" />
+  <com name="comp" path="res/comp" />
+  <com name="edit-user" path="res/edit-user" />
+  <com name="fixea" path="res/fixea" />
+  <com name="gdn" path="res/gdn" />
+  <com name="general" path="res/general" />
+  <com name="genGTN" path="res/genGTN" />
+  <com name="grn" path="res/grn"/>
+  <com name="gtn" path="res/gtn"/>
+  
+  
+  <com name="cond" path="config/cond.sys" />
+  <com name="cond" path="config/currconfig.sys" />
+  
+</syscom>

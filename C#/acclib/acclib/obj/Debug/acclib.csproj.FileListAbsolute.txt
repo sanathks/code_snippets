@@ -1,0 +1,27 @@
+C:\Users\S D W\Documents\Visual Studio 2010\Projects\Controls\acclib\acclib\bin\Debug\acclib.dll
+C:\Users\S D W\Documents\Visual Studio 2010\Projects\Controls\acclib\acclib\bin\Debug\acclib.pdb
+C:\Users\S D W\Documents\Visual Studio 2010\Projects\Controls\acclib\acclib\obj\Debug\acclib.csproj.GenerateResource.Cache
+C:\Users\S D W\Documents\Visual Studio 2010\Projects\Controls\acclib\acclib\obj\Debug\acclib.dll
+C:\Users\S D W\Documents\Visual Studio 2010\Projects\Controls\acclib\acclib\obj\Debug\acclib.pdb
+C:\Users\S D W\Documents\Visual Studio 2010\Projects\Controls\acclib\acclib\obj\Debug\acclib.csprojResolveAssemblyReference.cache
+C:\Users\S D W\Documents\Visual Studio 2010\Projects\Controls\acclib\acclib\obj\Debug\acclib.Properties.Resources.resources
+C:\Users\S D W\Documents\Visual Studio 2010\Projects\Controls\acclib\acclib\obj\Debug\acclib.acc.resources
+C:\Users\S D W\Documents\Visual Studio 2010\Projects\Controls\acclib\acclib\obj\Debug\acclib.AutoCompleteTextBox.resources
+D:\dotNet\acclib\acclib\bin\Debug\acclib.dll
+D:\dotNet\acclib\acclib\bin\Debug\acclib.pdb
+D:\dotNet\acclib\acclib\obj\Debug\acclib.csprojResolveAssemblyReference.cache
+D:\dotNet\acclib\acclib\obj\Debug\acclib.acc.resources
+D:\dotNet\acclib\acclib\obj\Debug\acclib.Properties.Resources.resources
+D:\dotNet\acclib\acclib\obj\Debug\acclib.csproj.GenerateResource.Cache
+D:\dotNet\acclib\acclib\obj\Debug\acclib.dll
+D:\dotNet\acclib\acclib\obj\Debug\acclib.pdb
+D:\dotNet\acclib\acclib\obj\Debug\acclib.AutoCompleteTextBox.resources
+E:\Projects\C#\dotNet\acclib\acclib\bin\Debug\acclib.dll
+E:\Projects\C#\dotNet\acclib\acclib\bin\Debug\acclib.pdb
+E:\Projects\C#\dotNet\acclib\acclib\obj\Debug\acclib.csprojResolveAssemblyReference.cache
+E:\Projects\C#\dotNet\acclib\acclib\obj\Debug\acclib.acc.resources
+E:\Projects\C#\dotNet\acclib\acclib\obj\Debug\acclib.AutoCompleteTextBox.resources
+E:\Projects\C#\dotNet\acclib\acclib\obj\Debug\acclib.Properties.Resources.resources
+E:\Projects\C#\dotNet\acclib\acclib\obj\Debug\acclib.csproj.GenerateResource.Cache
+E:\Projects\C#\dotNet\acclib\acclib\obj\Debug\acclib.dll
+E:\Projects\C#\dotNet\acclib\acclib\obj\Debug\acclib.pdb

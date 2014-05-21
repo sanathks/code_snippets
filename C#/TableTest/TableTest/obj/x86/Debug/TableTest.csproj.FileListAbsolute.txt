@@ -1,0 +1,8 @@
+D:\dotNet\TableTest\TableTest\obj\x86\Debug\TableTest.Form1.resources
+D:\dotNet\TableTest\TableTest\obj\x86\Debug\TableTest.Properties.Resources.resources
+D:\dotNet\TableTest\TableTest\obj\x86\Debug\TableTest.csproj.GenerateResource.Cache
+D:\dotNet\TableTest\TableTest\bin\Debug\TableTest.exe
+D:\dotNet\TableTest\TableTest\bin\Debug\TableTest.pdb
+D:\dotNet\TableTest\TableTest\obj\x86\Debug\TableTest.exe
+D:\dotNet\TableTest\TableTest\obj\x86\Debug\TableTest.pdb
+D:\dotNet\TableTest\TableTest\obj\x86\Debug\TableTest.csprojResolveAssemblyReference.cache

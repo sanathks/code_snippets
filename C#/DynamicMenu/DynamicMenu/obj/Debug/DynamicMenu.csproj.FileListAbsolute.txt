@@ -1,0 +1,9 @@
+D:\dotNet\DynamicMenu\DynamicMenu\bin\Debug\DynamicMenu.exe.config
+D:\dotNet\DynamicMenu\DynamicMenu\bin\Debug\DynamicMenu.exe
+D:\dotNet\DynamicMenu\DynamicMenu\bin\Debug\DynamicMenu.pdb
+D:\dotNet\DynamicMenu\DynamicMenu\obj\Debug\DynamicMenu.csprojResolveAssemblyReference.cache
+D:\dotNet\DynamicMenu\DynamicMenu\obj\Debug\DynamicMenu.frmMain.resources
+D:\dotNet\DynamicMenu\DynamicMenu\obj\Debug\DynamicMenu.Properties.Resources.resources
+D:\dotNet\DynamicMenu\DynamicMenu\obj\Debug\DynamicMenu.csproj.GenerateResource.Cache
+D:\dotNet\DynamicMenu\DynamicMenu\obj\Debug\DynamicMenu.exe
+D:\dotNet\DynamicMenu\DynamicMenu\obj\Debug\DynamicMenu.pdb

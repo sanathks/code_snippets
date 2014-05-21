@@ -1,0 +1,10 @@
+D:\dotNet\NotifiTest\NotifiTest\bin\Debug\NotifiTest.exe
+D:\dotNet\NotifiTest\NotifiTest\bin\Debug\NotifiTest.pdb
+D:\dotNet\NotifiTest\NotifiTest\bin\Debug\NitificationBar.dll
+D:\dotNet\NotifiTest\NotifiTest\bin\Debug\NitificationBar.pdb
+D:\dotNet\NotifiTest\NotifiTest\obj\x86\Debug\NotifiTest.Form1.resources
+D:\dotNet\NotifiTest\NotifiTest\obj\x86\Debug\NotifiTest.Properties.Resources.resources
+D:\dotNet\NotifiTest\NotifiTest\obj\x86\Debug\NotifiTest.csproj.GenerateResource.Cache
+D:\dotNet\NotifiTest\NotifiTest\obj\x86\Debug\NotifiTest.exe
+D:\dotNet\NotifiTest\NotifiTest\obj\x86\Debug\NotifiTest.pdb
+D:\dotNet\NotifiTest\NotifiTest\obj\x86\Debug\NotifiTest.csprojResolveAssemblyReference.cache

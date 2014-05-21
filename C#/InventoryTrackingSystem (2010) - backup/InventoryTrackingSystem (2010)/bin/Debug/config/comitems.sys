@@ -1,0 +1,8 @@
+<syscom>
+  <com name="mioitsx.serconfig" path="core/mioitsx.serconfig" />
+  <com name="department" path="res/department" />
+  <com name="edit" path="res/edit" />
+  <com name="emp" path="res/emp" />
+  <com name="settings" path="res/settings" />
+  <com name="users" path="res/users" />
+</syscom>

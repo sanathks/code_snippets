@@ -1,0 +1,9 @@
+D:\dotNet\SNTXTBX\SNTXTBX\bin\Debug\SNTXTBX.dll
+D:\dotNet\SNTXTBX\SNTXTBX\bin\Debug\SNTXTBX.pdb
+D:\dotNet\SNTXTBX\SNTXTBX\bin\Debug\gnclib.dll
+D:\dotNet\SNTXTBX\SNTXTBX\bin\Debug\gnclib.pdb
+D:\dotNet\SNTXTBX\SNTXTBX\obj\Debug\SNTXTBX.SNTXTBX.resources
+D:\dotNet\SNTXTBX\SNTXTBX\obj\Debug\SNTXTBX.csproj.GenerateResource.Cache
+D:\dotNet\SNTXTBX\SNTXTBX\obj\Debug\SNTXTBX.dll
+D:\dotNet\SNTXTBX\SNTXTBX\obj\Debug\SNTXTBX.pdb
+D:\dotNet\SNTXTBX\SNTXTBX\obj\Debug\SNTXTBX.csprojResolveAssemblyReference.cache

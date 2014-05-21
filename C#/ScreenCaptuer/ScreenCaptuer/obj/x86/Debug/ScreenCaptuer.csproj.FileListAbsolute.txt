@@ -1,0 +1,7 @@
+D:\dotNet\ScreenCaptuer\ScreenCaptuer\bin\Debug\ScreenCaptuer.exe
+D:\dotNet\ScreenCaptuer\ScreenCaptuer\bin\Debug\ScreenCaptuer.pdb
+D:\dotNet\ScreenCaptuer\ScreenCaptuer\obj\x86\Debug\ScreenCaptuer.Form1.resources
+D:\dotNet\ScreenCaptuer\ScreenCaptuer\obj\x86\Debug\ScreenCaptuer.Properties.Resources.resources
+D:\dotNet\ScreenCaptuer\ScreenCaptuer\obj\x86\Debug\ScreenCaptuer.csproj.GenerateResource.Cache
+D:\dotNet\ScreenCaptuer\ScreenCaptuer\obj\x86\Debug\ScreenCaptuer.exe
+D:\dotNet\ScreenCaptuer\ScreenCaptuer\obj\x86\Debug\ScreenCaptuer.pdb

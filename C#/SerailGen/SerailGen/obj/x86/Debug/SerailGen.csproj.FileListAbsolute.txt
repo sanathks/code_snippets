@@ -1,0 +1,7 @@
+D:\dotNet\SerailGen\SerailGen\bin\Debug\SerailGen.exe
+D:\dotNet\SerailGen\SerailGen\bin\Debug\SerailGen.pdb
+D:\dotNet\SerailGen\SerailGen\obj\x86\Debug\SerailGen.Properties.Resources.resources
+D:\dotNet\SerailGen\SerailGen\obj\x86\Debug\SerailGen.csproj.GenerateResource.Cache
+D:\dotNet\SerailGen\SerailGen\obj\x86\Debug\SerailGen.exe
+D:\dotNet\SerailGen\SerailGen\obj\x86\Debug\SerailGen.pdb
+D:\dotNet\SerailGen\SerailGen\obj\x86\Debug\SerailGen.Main.resources

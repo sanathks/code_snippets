@@ -1,0 +1,9 @@
+D:\dotNet\CrystalReportTest\CrystalReportTest\bin\Debug\CrystalReportTest.exe
+D:\dotNet\CrystalReportTest\CrystalReportTest\bin\Debug\CrystalReportTest.pdb
+D:\dotNet\CrystalReportTest\CrystalReportTest\obj\x86\Debug\CrystalReportTest.csprojResolveAssemblyReference.cache
+D:\dotNet\CrystalReportTest\CrystalReportTest\obj\x86\Debug\CrystalReportTest.Form1.resources
+D:\dotNet\CrystalReportTest\CrystalReportTest\obj\x86\Debug\CrystalReportTest.Properties.Resources.resources
+D:\dotNet\CrystalReportTest\CrystalReportTest\obj\x86\Debug\CrystalReportTest.csproj.GenerateResource.Cache
+D:\dotNet\CrystalReportTest\CrystalReportTest\obj\x86\Debug\CrystalReportTest.exe
+D:\dotNet\CrystalReportTest\CrystalReportTest\obj\x86\Debug\CrystalReportTest.pdb
+D:\dotNet\CrystalReportTest\CrystalReportTest\bin\Debug\CrystalReportTest.exe.config

@@ -1,0 +1,21 @@
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\bin\Release\Inventory Tracking System.exe.config
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Release\InventoryTrackingSystem.csprojResolveAssemblyReference.cache
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Release\InventoryTrackingSystem.frmTracker.resources
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Release\InventoryTrackingSystem.frmGTNGen.resources
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Release\InventoryTrackingSystem.frmGDN.resources
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Release\InventoryTrackingSystem.frmGTNFA.resources
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Release\InventoryTrackingSystem.frmElecDivice.resources
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Release\InventoryTrackingSystem.frmFixtAsset.resources
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Release\InventoryTrackingSystem.frmElecItemCate.resources
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Release\InventoryTrackingSystem.frmGenItemCate.resources
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Release\InventoryTrackingSystem.frmGeneral.resources
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Release\InventoryTrackingSystem.frmFAItemCate.resources
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Release\InventoryTrackingSystem.frmEmployee.resources
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Release\InventoryTrackingSystem.frmLocations.resources
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Release\InventoryTrackingSystem.frmCompanies.resources
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Release\InventoryTrackingSystem.frmLogin.resources
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Release\InventoryTrackingSystem.DatabaseRegister.resources
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Release\InventoryTrackingSystem.frmMain.resources
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Release\InventoryTrackingSystem.Properties.Resources.resources
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Release\InventoryTrackingSystem.Splashscreen.resources
+D:\dotNet\InventoryTrackingSystem (2010)\InventoryTrackingSystem (2010)\obj\Release\InventoryTrackingSystem.csproj.GenerateResource.Cache

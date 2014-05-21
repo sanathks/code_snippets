@@ -1,0 +1,40 @@
+﻿<menuItems>
+  
+  <menu name="tpMaster" text="Master" click="" >
+    <submenu name="tpItems" text="Items" click="items" icon="" frm="frmItem">
+        <ssmenu name="tpItems1" text="Items" click="items" icon="" frm="frmItem"></ssmenu>
+        <ssmenu name="tpItemsCat1" text="Items Cat:" click="this.itemsCat" frm="frmItem" icon="true" iconName="edit"></ssmenu>
+    </submenu>
+
+    <submenu name="tpItemsCat" text="Items Cat:" click="this.itemsCat" frm="frmItem" icon="true" iconName="edit"></submenu>
+  </menu>
+
+  <menu name="tpTransaction" text="Transaction" click="">
+    <submenu name="tpGRN" text="Goods Receive Note (GRN)" click="this.items" icon="" frm="frmItem"></submenu>
+    <submenu name="tpGIN" text="GIN" click="this.itemsCat" icon="" frm="frmItem"></submenu>
+ </menu>
+
+  <menu name="tpTransaction" text="Reports" click="">
+    <submenu name="tpGRN" text="Goods Receive Note (GRN)" click="this.items" icon="" frm="frmItem"></submenu>
+    <submenu name="tpGIN" text="GIN" click="this.itemsCat" icon="" frm="frmItem"></submenu>
+  </menu>
+
+  <menu name="tpTransaction" text="View" click="">
+    <submenu name="tpGRN" text="Hide" click="hide" icon="" frm="frmItem"></submenu>
+    <submenu name="tpGIN" text="GIN" click="this.itemsCat" icon="" frm="frmItem"></submenu>
+  </menu>
+
+  <menu name="tpTransaction" text="Config" click="">
+    <submenu name="tpGRN" text="Goods Receive Note (GRN)" click="this.items" icon="" frm="frmItem"></submenu>
+    <submenu name="tpGIN" text="GIN" click="this.itemsCat" icon="" frm="frmItem"></submenu>
+  
+  </menu>
+
+  <menu name="tpUsers" text="Users" click="">
+    <submenu name="tpGRN" text="Goods Receive Note (GRN)" click="" icon="" frm="frmItem"></submenu>
+    <submenu name="tpGIN" text="GIN" click="this.itemsCat" icon="" frm="frmItem"></submenu>
+  </menu>
+
+  <menu name="tpHelp" text="Help" click="hide"></menu>
+  
+</menuItems>

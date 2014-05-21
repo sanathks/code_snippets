@@ -1,0 +1,8 @@
+D:\dotNet\Editable Table Test\Editable Table Test\bin\Debug\Editable Table Test.exe
+D:\dotNet\Editable Table Test\Editable Table Test\bin\Debug\Editable Table Test.pdb
+D:\dotNet\Editable Table Test\Editable Table Test\obj\x86\Debug\Editable_Table_Test.Form1.resources
+D:\dotNet\Editable Table Test\Editable Table Test\obj\x86\Debug\Editable_Table_Test.Properties.Resources.resources
+D:\dotNet\Editable Table Test\Editable Table Test\obj\x86\Debug\Editable Table Test.csproj.GenerateResource.Cache
+D:\dotNet\Editable Table Test\Editable Table Test\obj\x86\Debug\Editable Table Test.exe
+D:\dotNet\Editable Table Test\Editable Table Test\obj\x86\Debug\Editable Table Test.pdb
+D:\dotNet\Editable Table Test\Editable Table Test\obj\x86\Debug\Editable Table Test.csprojResolveAssemblyReference.cache

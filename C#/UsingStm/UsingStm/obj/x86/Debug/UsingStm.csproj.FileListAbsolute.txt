@@ -1,0 +1,4 @@
+D:\dotNet\UsingStm\UsingStm\bin\Debug\UsingStm.exe
+D:\dotNet\UsingStm\UsingStm\bin\Debug\UsingStm.pdb
+D:\dotNet\UsingStm\UsingStm\obj\x86\Debug\UsingStm.exe
+D:\dotNet\UsingStm\UsingStm\obj\x86\Debug\UsingStm.pdb
