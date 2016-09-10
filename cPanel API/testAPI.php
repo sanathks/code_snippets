@@ -3,9 +3,9 @@
  //print_r($var);
 include 'xmlapi.php';
 
-$xip = "50.87.102.208";                // should be server IP address or 127.0.0.1 if local server
-$account = "hairuec1";            // cPanel user account name
-$passwd ="#@1&U3c1";            // cPanel user password
+$xip = "127.0.0.1";                // should be server IP address or 127.0.0.1 if local server
+$account = "account_name";            // cPanel user account name
+$passwd ="123456";            // cPanel user password
 $port =2083;                    // cpanel secure authentication port
 $email_domain = 'hairuec.com';   // email domain (usually same as cPanel domain)
 $email_quota = 50; 
